@@ -1,0 +1,16 @@
+C:\Users\yorik3k-win\Desktop\lab6\WolfgangArcade\WolfgangArcade\bin\Debug\WolfgangArcade.exe.config
+C:\Users\yorik3k-win\Desktop\lab6\WolfgangArcade\WolfgangArcade\bin\Debug\WolfgangArcade.exe
+C:\Users\yorik3k-win\Desktop\lab6\WolfgangArcade\WolfgangArcade\bin\Debug\WolfgangArcade.pdb
+C:\Users\yorik3k-win\Desktop\lab6\WolfgangArcade\WolfgangArcade\obj\Debug\WolfgangArcade.csproj.AssemblyReference.cache
+C:\Users\yorik3k-win\Desktop\lab6\WolfgangArcade\WolfgangArcade\obj\Debug\MainWindow.baml
+C:\Users\yorik3k-win\Desktop\lab6\WolfgangArcade\WolfgangArcade\obj\Debug\MainWindow.g.cs
+C:\Users\yorik3k-win\Desktop\lab6\WolfgangArcade\WolfgangArcade\obj\Debug\App.g.cs
+C:\Users\yorik3k-win\Desktop\lab6\WolfgangArcade\WolfgangArcade\obj\Debug\WolfgangArcade_MarkupCompile.cache
+C:\Users\yorik3k-win\Desktop\lab6\WolfgangArcade\WolfgangArcade\obj\Debug\WolfgangArcade.g.resources
+C:\Users\yorik3k-win\Desktop\lab6\WolfgangArcade\WolfgangArcade\obj\Debug\WolfgangArcade.Properties.Resources.resources
+C:\Users\yorik3k-win\Desktop\lab6\WolfgangArcade\WolfgangArcade\obj\Debug\WolfgangArcade.csproj.GenerateResource.cache
+C:\Users\yorik3k-win\Desktop\lab6\WolfgangArcade\WolfgangArcade\obj\Debug\WolfgangArcade.csproj.CoreCompileInputs.cache
+C:\Users\yorik3k-win\Desktop\lab6\WolfgangArcade\WolfgangArcade\obj\Debug\WolfgangArcade.exe
+C:\Users\yorik3k-win\Desktop\lab6\WolfgangArcade\WolfgangArcade\obj\Debug\WolfgangArcade.pdb
+C:\Users\yorik3k-win\Desktop\lab6\WolfgangArcade\WolfgangArcade\obj\Debug\WolfgangArcade.exe.config
+C:\Users\yorik3k-win\Desktop\lab6\WolfgangArcade\WolfgangArcade\obj\Debug\WolfgangArcade_Content.g.cs
